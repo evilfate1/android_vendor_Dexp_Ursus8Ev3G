@@ -1,1 +1,2 @@
-# android_vendor_Dexp_Ursus8Ev3G
+Vendor blobs for Ursus_8EV_3G
+---------------
